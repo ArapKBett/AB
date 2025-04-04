@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="py-6 bg-gray-800 text-gray-400">
       <div className="max-w-6xl mx-auto px-4 flex flex-col items-center space-y-4 md:flex-row md:justify-between">
-        <p>© 2025 Kipkorir Bett. All rights reserved.</p>
+        <p>© 2025 Kipkorir Arap Bett. All rights reserved.</p>
         <div className="flex space-x-6">
           <a href="https://github.com/ArapKBett" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-cyan-400 transition-colors">
             <FaGithub className="mr-2" /> GitHub
